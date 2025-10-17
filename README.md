@@ -30,14 +30,14 @@ Simulated IT helpdesk project using **Active Directory**, **Group Policy**, and 
 ## Tickets in ServiceNow
 **Ticket | Description | Resolution**
 *********************************
-Password Reset | User forgot Password | Reset Password in ADUC
-Account Lockout | Multiple failed logins, triggering lockout policy | Unlocked in ADUC
-Slow Computer | Too many used resources | Restarted computer and closed unneccessary processes in Task Manager
-Folder Access | User cannot access folder | Modified NTFS permissions
-Printer Issue | Printer not appearing | Started printer spooler 
-Display Setting Issue | Incorrect display setting | Reset display settings
-Timezone Setting Issue | Wrong time shown | Fixed timezone in settings
-User Leaving Company | User leaving company | Disabled Account in ADUC 
+- Password Reset | User forgot Password | Reset Password in ADUC
+- Account Lockout | Multiple failed logins, triggering lockout policy | Unlocked in ADUC
+- Slow Computer | Too many used resources | Restarted computer and closed unneccessary processes in Task Manager
+- Folder Access | User cannot access folder | Modified NTFS permissions
+- Printer Issue | Printer not appearing | Started printer spooler 
+- Display Setting Issue | Incorrect display setting | Reset display settings
+- Timezone Setting Issue | Wrong time shown | Fixed timezone in settings
+- User Leaving Company | User leaving company | Disabled Account in ADUC 
 
 ## Outcome
 - Practiced **helpdesk troubleshooting** workflow
