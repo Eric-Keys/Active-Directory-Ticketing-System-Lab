@@ -68,13 +68,13 @@ Simulated IT helpdesk project using **Active Directory**, **Group Policy**, and 
 ![](./screenshots/19.png)
 - **Screenshot above is working on ticket to fix NTFS file permission misconfiguration so Sally can access folder**
 ![](./screenshots/20.png)
--- **Screenshot above is working on ticket to fix the printer spooling so users can access printer**
+- **Screenshot above is working on ticket to fix the printer spooling so users can access printer**
 ![](./screenshots/21.png)
--- **Screenshot above is working on account lockout ticket**
+- **Screenshot above is working on account lockout ticket**
 ![](./screenshots/22.png)
--- **Screenshot above is working on account password reset ticket**
+- **Screenshot above is working on account password reset ticket**
 ![](./screenshots/23.png)
--- **Screenshot above is working on account disable ticket**
+- **Screenshot above is working on account disable ticket**
 ![](./screenshots/24.png)
 ![](./screenshots/25.png)
 ![](./screenshots/26.png)
