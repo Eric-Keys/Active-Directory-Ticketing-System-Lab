@@ -51,6 +51,7 @@ Simulated IT helpdesk project using **Active Directory**, **Group Policy**, and 
 ![](./screenshots/3.png)
 ![](./screenshots/4.png)
 ![](./screenshots/5.png)
+- Screenshots above is ServiceNow Documentation
 ![](./screenshots/6.png)
 ![](./screenshots/7.png)
 ![](./screenshots/8.png)
