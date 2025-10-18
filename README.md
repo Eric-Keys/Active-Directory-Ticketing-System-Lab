@@ -66,6 +66,7 @@ Simulated IT helpdesk project using **Active Directory**, **Group Policy**, and 
 ![](./screenshots/17.png)
 - **Screenshots above is use of RDP for user troubleshooting tickets**
 ![](./screenshots/19.png)
+- **Screenshot above is working on ticket to fix NTFS file permission misconfiguration so Sally can access folder**
 ![](./screenshots/20.png)
 ![](./screenshots/21.png)
 ![](./screenshots/22.png)
