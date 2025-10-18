@@ -64,6 +64,7 @@ Simulated IT helpdesk project using **Active Directory**, **Group Policy**, and 
 - **Screenshots above is Windows Server Domain and Policies configuration**
 ![](./screenshots/16.png)
 ![](./screenshots/17.png)
+- **Screenshots above is use of RDP for user troubleshooting tickets**
 ![](./screenshots/19.png)
 ![](./screenshots/20.png)
 ![](./screenshots/21.png)
