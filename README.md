@@ -70,7 +70,7 @@ Simulated IT helpdesk project using **Active Directory**, **Group Policy**, and 
 ![](./screenshots/20.png)
 -- **Screenshot above is working on ticket to fix the printer spooling so users can access printer**
 ![](./screenshots/21.png)
--- **Screenshot above is 
+-- **Screenshot above is working on account lockout ticket**
 ![](./screenshots/22.png)
 ![](./screenshots/23.png)
 ![](./screenshots/24.png)
