@@ -76,8 +76,7 @@ Simulated IT helpdesk project using **Active Directory**, **Group Policy**, and 
 ![](./screenshots/23.png)
 - **Screenshot above is working on account disable ticket**
 ![](./screenshots/24.png)
-![](./screenshots/25.png)
-![](./screenshots/26.png)
+- **Screenshot above is working on DNS server setup pointing at AD IP on client VM**
 ![](./screenshots/27.png)
 
 
