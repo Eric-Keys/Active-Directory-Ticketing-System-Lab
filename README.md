@@ -81,7 +81,6 @@ Simulated IT helpdesk project using **Active Directory**, **Group Policy**, and 
 ![](./screenshots/29.png)
 ![](./screenshots/30.png)
 ![](./screenshots/31.png)
-![](./screenshots/32.png)
 
 
   
