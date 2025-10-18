@@ -68,7 +68,9 @@ Simulated IT helpdesk project using **Active Directory**, **Group Policy**, and 
 ![](./screenshots/19.png)
 - **Screenshot above is working on ticket to fix NTFS file permission misconfiguration so Sally can access folder**
 ![](./screenshots/20.png)
+-- **Screenshot above is working on ticket to fix the printer spooling so users can access printer**
 ![](./screenshots/21.png)
+-- **Screenshot above is 
 ![](./screenshots/22.png)
 ![](./screenshots/23.png)
 ![](./screenshots/24.png)
